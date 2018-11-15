@@ -1,0 +1,25 @@
+C:\Users\Gebruiker\Documents\BusylightSDK\SAMPLES\DOTNET3\bin\Debug\BusylightTester.exe.config
+C:\Users\Gebruiker\Documents\BusylightSDK\SAMPLES\DOTNET3\bin\Debug\BusylightTester.exe
+C:\Users\Gebruiker\Documents\BusylightSDK\SAMPLES\DOTNET3\bin\Debug\BusylightTester.pdb
+C:\Users\Gebruiker\Documents\BusylightSDK\SAMPLES\DOTNET3\bin\Debug\BusylightSDK.dll
+C:\Users\Gebruiker\Documents\BusylightSDK\SAMPLES\DOTNET3\obj\Debug\BusylightTester.csprojResolveAssemblyReference.cache
+C:\Users\Gebruiker\Documents\BusylightSDK\SAMPLES\DOTNET3\obj\Debug\BusylightTester.frmCustom.resources
+C:\Users\Gebruiker\Documents\BusylightSDK\SAMPLES\DOTNET3\obj\Debug\BusylightTester.frmMain.resources
+C:\Users\Gebruiker\Documents\BusylightSDK\SAMPLES\DOTNET3\obj\Debug\BusylightTester.Properties.Resources.resources
+C:\Users\Gebruiker\Documents\BusylightSDK\SAMPLES\DOTNET3\obj\Debug\BusylightTester.csproj.GenerateResource.Cache
+C:\Users\Gebruiker\Documents\BusylightSDK\SAMPLES\DOTNET3\obj\Debug\BusylightTester.exe
+C:\Users\Gebruiker\Documents\BusylightSDK\SAMPLES\DOTNET3\obj\Debug\BusylightTester.pdb
+C:\Users\lw\Desktop\Busy Light\bin\Debug\MyCRMPlugin.pdb
+C:\Users\lw\Desktop\Busy Light\bin\Debug\BusylightSDK.dll
+C:\Users\lw\Desktop\Busy Light\bin\Debug\MyPhoneCRMIntegration.dll
+C:\Users\lw\Desktop\Busy Light\obj\Debug\BusylightTester.frmCustom.resources
+C:\Users\lw\Desktop\Busy Light\obj\Debug\BusylightTester.frmMain.resources
+C:\Users\lw\Desktop\Busy Light\obj\Debug\MyCRMPlugin.Properties.Resources.resources
+C:\Users\lw\Desktop\Busy Light\obj\Debug\BusylightTester.csproj.GenerateResource.cache
+C:\Users\lw\Desktop\Busy Light\obj\Debug\BusylightTester.csproj.CoreCompileInputs.cache
+C:\Users\lw\Desktop\Busy Light\obj\Debug\BusylightTester.csproj.CopyComplete
+C:\Users\lw\Desktop\Busy Light\obj\Debug\MyCRMPlugin.pdb
+C:\Users\lw\Desktop\Busy Light\bin\Debug\MyCRMPlugin.dll.config
+C:\Users\lw\Desktop\Busy Light\bin\Debug\MyCRMPlugin.dll
+C:\Users\lw\Desktop\Busy Light\obj\Debug\MyCRMPlugin.dll
+C:\Users\lw\Desktop\Busy Light\obj\Debug\BusylightTester.csprojAssemblyReference.cache
