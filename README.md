@@ -23,7 +23,7 @@ Aktives Farbprofil:
 - Grün: Wenn der Mitarbeiter auf "Verfügbar" ist und kein Anruf aktiv ist
 - Rot: Wenn der Mitarbeiter auf "Abwesend" oder "Nicht stören" ist
 - Gelb blinkend: Wenn der Mitarbeiter eine Nummer wählt oder gerade angerufen wird
-- Gelb: Wenn der Mitarbeiter aktiv in einem Gespräch ist
+- Rot: Wenn der Mitarbeiter aktiv in einem Gespräch ist
 - Blau blinkend: Wenn der Mitarbeiter aktiv in einem Gespräch und das Mikrofon stumm geschalten ist.
 
 Weitere Farbwünsche oder Änderungen nehme ich gerne entgegen (Das Ding kann jede RGB-Farbe halbwegs darstellen)!
