@@ -25,7 +25,7 @@ namespace MyCRMPlugins
         // Aktives Farbprofil (Busylight leuchtet nur, wenn 3CX gestartet wurde):
         // Grün, wenn Verfügar
         // Gelb blinkend, wenn gewählt wird oder wenn es klingelt (Busylight wurde stumm geschaltet!)
-        // Gelb, wenn aktiv in Gespräch
+        // Rot, wenn aktiv in Gespräch
         // Grün, wenn wieder frei
         // Rot, wenn Abwesend oder anderer Status
         public static void Loader(IMyPhoneCallHandler callHandler)
@@ -57,9 +57,9 @@ namespace MyCRMPlugins
             if (callInfo.State == CallState.Connected)
             {
 
-                // Gelb, wenn Anruf entgegengenommen wurde
+                // Rot, wenn Anruf entgegengenommen wurde
                 // frm.btnRedBlinkingWithoutSound_Click(null, EventArgs.Empty);
-                frm.busylight.Light(Busylight.BusylightColor.Yellow);
+                frm.busylight.Light(Busylight.BusylightColor.Red);
 
                 // Blau blinken, wenn auf Stumm geschalten wird 
                 if (callInfo.IsMuted)
